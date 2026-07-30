@@ -5,10 +5,8 @@ Vulnerability reports documenting hands-on web application security labs
 Each folder contains a full report for one lab, including methodology, steps to reproduce, evidence, and remediation.
 
 Practical-Bug-Bounty-Labs/
-
-├── README.md
-├── Auth-0x01-Password-Bruteforce/
-│   └── Auth_0x01_Report.docx
+Lab	Vulnerability	Report
+Auth 0x01	Password Brute Force	Report
 
 ## Tools used
 ffuf, Burp Suite, browser developer tools
